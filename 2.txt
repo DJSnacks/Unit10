@@ -1,0 +1,8 @@
+2. 
+
+The value of c.constructor is:
+function(r){
+this.radius = r;
+}
+
+The only property of c is radius, radius is the only enumerable property.
